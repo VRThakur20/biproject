@@ -5,11 +5,7 @@ import {
   registerUser,
 } from '../controllers/authController';
 import authMiddleware from '../middleware/authMiddleware';
-import {
-  loginValidation,
-  signupValidation,
-  registerUserValidation,
-} from '../validation/authValidation'; // Adjust the import path
+
 
 const router = express.Router();
 
