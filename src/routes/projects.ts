@@ -8,11 +8,7 @@ import {
   restoreProject,
 } from '../controllers/projectController';
 import authMiddleware from '../middleware/authMiddleware';
-import {
-  createProjectValidation,
-  updateProjectValidation,
-  getProjectByIdValidation,
-} from '../validation/projectValidation'; // Adjust the import path
+
 
 const router = express.Router();
 
