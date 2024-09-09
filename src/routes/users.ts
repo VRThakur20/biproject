@@ -10,7 +10,7 @@ import {
 import authMiddleware from '../middleware/authMiddleware';
 import { assignRoleToUser, revokeRoleFromUser } from '../controllers/roleController';
 
-import { createUserValidation, updateUserValidation, getUserByIdValidation } from '../validation/userValidation'; // Adjust the import path
+
 
 const router = express.Router();
 
