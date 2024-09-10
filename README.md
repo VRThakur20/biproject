@@ -28,7 +28,7 @@ This README provides an overview of the tools, setup, and a brief summary of an 
 To test the APIs, you can import the following Postman collection:
 
 <!-- Start of "Run in Postman" Button -->
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/20448680-b82957da-1c45-4f38-96e0-db378c25272f?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D20448680-b82957da-1c45-4f38-96e0-db378c25272f%26entityType%3Dcollection%26workspaceId%3Df1fba814-8e97-45b5-a81a-d5380c559ec1)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://www.postman.com/vrthakur555/workspace/van-raj-s-workspace/collection/32894831-7ea7145c-548a-45e2-bc1a-fe0d65c7db20?action=share&creator=32894831)
 
 
 <!-- End of "Run in Postman" Button -->
